@@ -2,7 +2,7 @@
 
 # Dubizzle Company Used Cars Sales Dashboard (Group9 Project)
 
-![Dubizzle Company Used Cars Sales Dashboard](https://github.com/your-username/your-repository-name/blob/main/Group9%20project%20dashbord.jpg)
+![Dubizzle Company Used Cars Sales Dashboard] ![](GRP9-DASHBOARD)
 
 ## Dataset Source
 
